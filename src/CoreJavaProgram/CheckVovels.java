@@ -1,3 +1,5 @@
+package CoreJavaProgram;
+
 public class CheckVovels {
     public static void main(String[] args) {
 

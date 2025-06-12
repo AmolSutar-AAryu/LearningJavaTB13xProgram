@@ -1,3 +1,5 @@
+package CoreJavaProgram;
+
 public class EvenAndOdd {
     public static void main(String[] args) {
         int num = 20;

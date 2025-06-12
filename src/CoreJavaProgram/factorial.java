@@ -1,3 +1,5 @@
+package CoreJavaProgram;
+
 public class factorial {
     public static void main(String[] args) {
         int num = 5;
@@ -5,6 +7,6 @@ public class factorial {
         for(int i =1; i<=num; i++){
          fac*=i;
         }
-        System.out.println("factorial of num is " + fac);
+        System.out.println("CoreJavaProgram.factorial of num is " + fac);
     }
 }

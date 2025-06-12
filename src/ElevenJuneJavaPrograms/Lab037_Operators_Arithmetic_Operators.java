@@ -3,7 +3,7 @@ package ElevenJuneJavaPrograms;
 public class Lab037_Operators_Arithmetic_Operators {
     public static void main(String[] args) {
         // Arithmetic Operators
-        //        + (Addition)
+        //        + (CoreJavaProgram.Addition)
         //       - (Subtraction)
         //       * (Multiplication)
         //       / (Division)

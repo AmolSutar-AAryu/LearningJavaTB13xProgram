@@ -1,3 +1,5 @@
+package CoreJavaProgram;
+
 public class Pattarn {
     public static void main(String[] args) {
         int row = 5;

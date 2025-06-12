@@ -1,3 +1,5 @@
+package CoreJavaProgram;
+
 public class fibonacciNum {
     public static void main(String[] args) {
 

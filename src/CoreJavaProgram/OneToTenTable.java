@@ -1,3 +1,5 @@
+package CoreJavaProgram;
+
 public class OneToTenTable {
     public static void main(String[] args) {
         int size = 10;
