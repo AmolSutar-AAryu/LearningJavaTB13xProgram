@@ -10,8 +10,8 @@ public class capitalizeWords {
         for(String word : words){
             stringBuilder.append(Character.toUpperCase(word.charAt(0))).
                     append(word.substring(1)).append("");
-            System.out.println(stringBuilder.toString());
-        }
 
+        }
+        System.out.println(stringBuilder.toString());
     }
 }
