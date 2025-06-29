@@ -1,6 +1,6 @@
 package javaString;
 
-public class FrequencyOfeachChar {
+public class OcceranceOfeachChar {
     public static void main(String[] args) {
         String input = "This is my name";
 

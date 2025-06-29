@@ -1,6 +1,6 @@
 package CoreJavaProgram;
 
-public class piramidPattarn
+public class pyramidPattarn
 {
     public static void main(String[] args) {
         int size =5;
