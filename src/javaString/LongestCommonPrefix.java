@@ -3,7 +3,6 @@ package javaString;
 public class LongestCommonPrefix {
     public static void main(String[] args) {
         String[] strs = {"flower", "flow", "flight"};
-        //Sting demo = longPRifix(strs);
         String result = longPRifix(strs);
         System.out.println("result " + result);
 
