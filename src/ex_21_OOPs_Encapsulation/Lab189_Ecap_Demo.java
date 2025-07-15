@@ -1,5 +1,7 @@
 package ex_21_OOPs_Encapsulation;
 
+import java.util.LinkedList;
+
 public class Lab189_Ecap_Demo {
     public static void main(String[] args) {
    VWOLogin vwoLogin = new VWOLogin("amol", "1213asd");
@@ -11,6 +13,9 @@ public class Lab189_Ecap_Demo {
         goodVWOLogin.setPassword("amol",false);
         String pass = goodVWOLogin.getPassword();
         System.out.println(pass);
+
+
+        LinkedList<String> ll  = new LinkedList<>();
 
     }
 }
